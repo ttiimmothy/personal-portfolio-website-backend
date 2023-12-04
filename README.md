@@ -1,6 +1,6 @@
 # Personal Portfolio Website Backend
 
-Personal Portfolio Website Backend is a server uses `Go`.
+Personal Portfolio Website Backend is a server using `Go`.
 
 ## License
 
